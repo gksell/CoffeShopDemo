@@ -21,9 +21,7 @@
                         <configuration>
                             <wsdlUrls>
                                 <wsdlUrl>https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL</wsdlUrl>
-                                <wsdlUrl>https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL</wsdlUrl>
                             </wsdlUrls>
-                            <packageName>com.example.generated</packageName>
                             <packageName>com.example.generated</packageName>
                         </configuration>
                     </execution>
