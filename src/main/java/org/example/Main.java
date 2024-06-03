@@ -1,8 +1,6 @@
 package org.example;
-import com.example.generated.*;
 import src.Abstract.BaseCustomerManager;
 import src.Adapters.MernisAdapter;
-import src.Concrete.NeroCustomerManager;
 import src.Concrete.StarbucksCustomerManager;
 import src.Entities.Customer;
 
