@@ -3,11 +3,8 @@ import src.Abstract.BaseCustomerManager;
 import src.Adapters.MernisAdapter;
 import src.Concrete.StarbucksCustomerManager;
 import src.Entities.Customer;
-
 import java.sql.Date;
 import java.time.LocalDate;
-
-
 
 public class Main {
     public static void main(String[] args) throws Exception {
